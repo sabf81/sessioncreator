@@ -1,0 +1,4 @@
+Todo:X:\Public\QM\Testing\sessions\todos
+Submitted:X:\Public\QM\Testing\sessions\submitted\
+Coverage:X:\Public\QM\Testing\sessions\coverage.ini
+Aproved:X:\Public\QM\Testing\sessions\approved
