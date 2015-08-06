@@ -1,0 +1,1 @@
+A tool to create a Testsession or do a Sessionreview
